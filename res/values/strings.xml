@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">卡车驿站</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="my_truckinn">我的驿站</string>
+    <string name="nick_name_tip">昵称</string>
+    <string name="my_gride_tip">我的积分</string>
+    <string name="my_share_tip">我的分享</string>
+    <string name="my_collect_tip">我的收藏</string>
+    
+    <string name="friend_circle">卡友圈</string>
+    <string name="find_friend">找卡友</string>
+    <string name="in_road">在路上</string>
+    
+    <string name="gas_station_str">加气站</string>
+    <string name="water_station_str">加水站</string>
+    <string name="gasoline_station_str">加油站</string>
+    <string name="more_str">更多</string>
+    
+    <string name="location_friends">好友定位</string>
+    <string name="add_friends">添加好友</string>
+    <string name="friends">好友</string>
+    <string name="fans">粉丝</string>
+    <string name="focus">关注</string>
+    
+    <string name="note_board">留言板</string>
+
+    <string name="sign_in">签到</string>
+    <string name="cur_location">十堰</string>
+    
+    <string name="myCard">我的名片</string>
+    <string name="my_truck">我的卡车</string>
+    <string name="my_order">我的订单</string>
+    <string name="gride_shop">积分商城</string>
+    <string name="invite_friend">邀请卡友</string>
+    <string name="break_rule">违章查询</string>
+    <string name="latest_notice">最新公告</string>
+    <string name="feedback">意见反馈</string>
+
+</resources>

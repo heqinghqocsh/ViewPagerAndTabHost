@@ -1,0 +1,60 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+    <style name="my_truckinn_relative">
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/item_selector</item>
+    </style>
+    
+    <style name="home_page_selector">
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/item_selector</item>
+    </style>
+
+    <style name="my_truckinn_img_arrow">
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:src">@drawable/right_arrow</item>
+    </style>
+
+    <style name="my_truckinn_img_icon">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+    </style>
+    
+    <style name="white_15_font">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/size_15</item>
+    </style>
+    
+    <style name="main_activity_bottom_layout">
+        <item name="android:gravity">center</item>
+        <item name="android:clickable">true</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:onClick">changePage</item>
+    </style>
+    <style name="contact_page_title_layout">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textSize">@dimen/size_15</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:clickable">true</item>
+    </style>
+    
+    <style name="my_truckinn_page_textView">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textSize">@dimen/size_15</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    
+
+</resources>
